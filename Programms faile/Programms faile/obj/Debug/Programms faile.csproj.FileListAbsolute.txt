@@ -1,0 +1,7 @@
+C:\Users\Максим\source\repos\Programms faile\Programms faile\bin\Debug\Programms faile.exe.config
+C:\Users\Максим\source\repos\Programms faile\Programms faile\bin\Debug\Programms faile.exe
+C:\Users\Максим\source\repos\Programms faile\Programms faile\bin\Debug\Programms faile.pdb
+C:\Users\Максим\source\repos\Programms faile\Programms faile\obj\Debug\Programms faile.csproj.AssemblyReference.cache
+C:\Users\Максим\source\repos\Programms faile\Programms faile\obj\Debug\Programms faile.csproj.CoreCompileInputs.cache
+C:\Users\Максим\source\repos\Programms faile\Programms faile\obj\Debug\Programms faile.exe
+C:\Users\Максим\source\repos\Programms faile\Programms faile\obj\Debug\Programms faile.pdb
